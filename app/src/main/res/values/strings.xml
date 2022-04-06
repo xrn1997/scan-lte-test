@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">scan-lte-test</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="none_lte">没有LTE</string>
+</resources>
